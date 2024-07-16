@@ -1,5 +1,5 @@
 ## MessageApp-Python
-#####Python Chat App by socket library
+#### Python Chat App by socket library
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### WHAT CAN YOU DO WITH THIS 
 -- You can create a server for chat with your friends
@@ -18,3 +18,5 @@
 -- example HOST = x.tcp.eu.ngrok.io, PORT = yyyyy
 -- then you send client.py to your friends and start chatting !
 ---------------------------------------------------------------------------------------------------------------------------------------------
+#### Contact me and see my other works
+www.denizvarici.com.tr
