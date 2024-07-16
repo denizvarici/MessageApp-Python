@@ -40,7 +40,6 @@ def join():
 
 def send_message():
     message = message_textbox.get().strip()
-    print(message)
     if(message != ""):
         client.sendall(message.encode())
     else:
