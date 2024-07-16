@@ -5,8 +5,8 @@ from tkinter import scrolledtext
 from tkinter import messagebox
 
 
-HOST = "2.tcp.eu.ngrok.io"
-PORT = 18016
+HOST = "127.0.0.1"
+PORT = 1234
 client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
 
